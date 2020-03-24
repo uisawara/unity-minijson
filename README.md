@@ -6,7 +6,7 @@ MiniJSON for Unity PackageManager
 * upper Unity 2018
 * Require Unity PackageManager
 
-# installation
+# Installation
 
 * Add lines to Packages/manifest.json
 
